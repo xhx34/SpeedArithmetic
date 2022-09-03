@@ -1,0 +1,60 @@
+﻿Key,Type,Desc,简体中文 [zh],English
+Title,Text,标题,速算,"SPEED
+ARITHMETIC"
+Mode1,Text,,加减运算,ADD AND SUB
+Mode2,Text,,四则运算,ARITHMETIC
+Mode3,Text,,历史记录,RECORD
+Recode,Text,记录,"<color=yellow>加减运算模式：</color>
+最高得分：{highScore} 
+最长用时： {minu} 分 {sec} 秒
+最多拦截数量： {highCount}
+最高连击： {highLevelCount}
+
+<color=red>四则运算模式：</color>
+最高得分：{highScoreMul} 
+最长用时： {minuMul} 分 {secMul} 秒
+最多拦截数量： {highCountMul}
+最高连击：{highLevelCountMul}","<color=yellow>ADD AND SUB：</color>
+TOP SCORE： {highScore} 
+TOP TIMER： {minu}m{sec} s
+TOP COUNT：{highCount}
+TOP COMBO： {highLevelCount}
+
+<color=red>ARITHMETIC：</color>
+TOP SCORE： {highScoreMul}
+TOP TIMER： {minuMul} m{secMul}s
+TOP COUNT： {highCountMul}
+TOP COMBO：{highLevelCountMul}"
+RecodeName,Text,,历史记录,RECODE
+Setting,Text,,设置,SETTING
+Audio,Text,,音乐音量,MUSIC VOLUME
+Sound,Text,,音效音量,SOUND VOLUME
+Back,Text,,返回,BACK
+GameEnd,Text,,退出游戏,GAMEEND
+BackMenu,Text,,返回主菜单,BACKMENU
+GameOver,Text,,游戏结束,GAMEOVER
+OverPanel,Text,,"本局得分：{score} 
+本局用时： {minu} 分 {sec} 秒
+本局拦截数量： {count}
+本局连击： {levelCount}
+
+最高得分：{highScore} ","SCORE：{score} 
+TIMER： {minu} 分 {sec} 秒
+COUNT： {count}
+COMBO： {levelCount}
+
+TOP SCORE：{highScore} "
+Help,Text,,帮助,HELP
+Start,Text,,开始游戏,START
+HelpPanel1,Text,,"<color=red>不要让汽车通过！</color>
+你需要通过2个数字的加法或减法计算得到1个数字，来让拥有此数字记号的汽车消失。
+可以任意刷新你拥有的数字。","<color=red>Don't let cars pass! </color>
+You need to get 1 number by adding or subtracting 2 numbers to make the car with this number mark disappear.
+You can refresh the numbers you have at will."
+HelpPanel2,Text,,"<color=red>不要让汽车通过！</color>
+你需要通过2个数字的加法,减法,乘法或除法计算得到1个数字，来让拥有此数字记号的汽车消失。
+可以任意刷新你拥有的数字。","<color=red>Don't let cars pass! </color>
+You need to add, subtract, multiply or divide 2 numbers to get 1 number to make the car with this number disappear.
+You can refresh any number you have."
+Maker,Text,,制作人员,STUDIO
+Name,Text,,谢弘,ALEX
